@@ -1,0 +1,13 @@
+# Setup
+title: "Orphan Open Source Software"
+tagline: "Open source software abounded by maintainers"
+baseurl: ""
+locale: "en"
+
+# About/contact
+author:
+  name: "Łukasz Lenart"
+  url: "https://lenart.org.pl"
+
+#Others
+markdown: kramdown
