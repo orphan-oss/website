@@ -1,8 +1,6 @@
 # Setup
 title: "Orphan Open Source Software"
-tagline: "Open source software abounded by maintainers"
-baseurl: ""
-locale: "en"
+description: "Open source software abounded by maintainers"
 
 # About/contact
 author:
