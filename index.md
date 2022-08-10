@@ -2,6 +2,7 @@
 layout: default
 ---
 
-# Orphan Open Source Software
+# Supported projects
 
-A place where all orphan projects can find a home
+- [Launch4j Maven Plugin](https://github.com/orphan-oss/launch4j-maven-plugin)
+- [Launch4j Maven based demo](https://github.com/orphan-oss/launch4j-demo)
